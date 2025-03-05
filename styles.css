@@ -20,3 +20,9 @@ button {
 button:hover {
     background-color: #005f73;
 }
+
+ul {
+    text-align: left; 
+    display: inline-block; 
+    margin-left: 20px; 
+}
