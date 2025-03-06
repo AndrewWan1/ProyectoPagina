@@ -46,3 +46,15 @@ ul {
     margin-top: 8px;
 }
 
+ul, ol {
+    text-align: left; 
+    display: block; 
+    width: 80%; 
+    margin: 0 auto; 
+}
+
+ul li, ol li {
+    text-align: justify; 
+}
+
+
