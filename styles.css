@@ -32,3 +32,17 @@ ul {
     display: inline-block; 
     margin-left: 20px; 
 }
+.subtitulo {
+    font-size: 20px; 
+    font-weight: bold; 
+    display: block; 
+    margin-top: 10px; 
+}
+
+.subsubtitulo {
+    font-size: 18px; 
+    font-weight: bold; 
+    display: block;
+    margin-top: 8px;
+}
+
